@@ -1,0 +1,10 @@
+{
+  "appName": "homie-touch",
+  "userGivenName": "homie-touch",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "apps/homie-touch/overlays/homie",
+  "srcRepoURL": "https://github.com/thirds-dev/homie-gitops.git",
+  "srcTargetRevision": "",
+  "labels": null
+}
