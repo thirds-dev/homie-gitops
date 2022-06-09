@@ -1,0 +1,12 @@
+{
+  "appName": "homie-touch",
+  "userGivenName": "homie-touch",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "homie-touch/",
+  "srcRepoURL": "https://github.com/thirds-dev/homie-k8s.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "exclude": "",
+  "include": ""
+}
