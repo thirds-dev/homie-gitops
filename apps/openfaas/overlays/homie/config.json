@@ -1,0 +1,10 @@
+{
+  "appName": "openfaas",
+  "userGivenName": "openfaas",
+  "destNamespace": "openfaas",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "apps/openfaas/overlays/homie",
+  "srcRepoURL": "https://github.com/thirds-dev/homie-gitops.git",
+  "srcTargetRevision": "",
+  "labels": null
+}
