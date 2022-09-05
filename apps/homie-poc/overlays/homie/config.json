@@ -6,5 +6,6 @@
   "srcPath": "apps/homie-poc/overlays/homie",
   "srcRepoURL": "https://github.com/thirds-dev/homie-gitops.git",
   "srcTargetRevision": "",
-  "labels": null
+  "labels": null,
+  "debug": false
 }
